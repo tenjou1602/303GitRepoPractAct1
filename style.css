@@ -1,0 +1,19 @@
+.pic {
+    width: 200px;
+    height: 200px;
+    margin: 10px; 
+}
+
+body {
+    font-family: Arial, sans-serif; 
+}
+
+h1 {
+    text-align: center; 
+}
+
+p {
+    text-align: center; 
+    font-size: 18px; 
+    color: #333; 
+}
